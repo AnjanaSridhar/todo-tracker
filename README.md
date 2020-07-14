@@ -1,10 +1,10 @@
 ## Todo-tracker
-This is a simple React project that allows you to track you To-do tasks.
+This is a simple React project that allows you to track your To-do tasks.
 It supports:
     - adding tasks
     - updating them to complete or not
     - clear tasks that are done
-    - provides a count of tasks are to be done
+    - count of tasks are to be done
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
